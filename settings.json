@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "GOD JESUS",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "DENISKA228",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "2ROBLOX.aternos.me",
+    "port": 38343,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 23,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Я СЫН КОРОЛЕВЫ И СВИНЬЯ БОТА",
+        "ЕБУ МАСУЛЬМАН Я В РОТ",
+        "АЛАХХА И ИССУСА УБИЛ"
       ]
     },
     "chat-log": true,
