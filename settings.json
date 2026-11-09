@@ -2,8 +2,8 @@
   "name": "GOD JESUS",
   "bot-account": {
     "username": "DENISKA228",
-    "password": "12zxc12zxc",
-    "type": "online"
+    "password": "",
+    "type": "offline"
   },
   "server": {
     "ip": "2ROBLOX.aternos.me",
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1,
+      "repeat-delay": 20,
       "messages": [
         "Я СЫН КОРОЛЕВЫ И СВИНЬЯ БОТА",
         "ЕБУ МАСУЛЬМАН Я В РОТ",
