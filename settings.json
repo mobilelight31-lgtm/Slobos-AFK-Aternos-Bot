@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 23,
+      "repeat-delay": 1,
       "messages": [
         "Я СЫН КОРОЛЕВЫ И СВИНЬЯ БОТА",
         "ЕБУ МАСУЛЬМАН Я В РОТ",
