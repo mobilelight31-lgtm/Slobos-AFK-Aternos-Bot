@@ -33,13 +33,17 @@
       "messages": [
         "Я СЫН КОРОЛЕВЫ И СВИНЬЯ БОТА",
         "ЕБУ МАСУЛЬМАН Я В РОТ",
-        "АЛАХХА И ИССУСА УБИЛ"
+        "АЛАХХА И ИССУСА УБИЛ",
+        "Всем привет меня зовут джеричь",
+        "Опа а это у нас джатгпт",
+        "ЧТООООООО ВЫ ТАКАЯ МУСЬКА",
+        "Евгений трикозов - депутат".
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 200000,
+    "max-reconnect-delay": 1200000
   },
   "movement": {
     "enabled": false,
