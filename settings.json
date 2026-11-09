@@ -1,7 +1,7 @@
 {
   "name": "GOD JESUS",
   "bot-account": {
-    "username": "DENISKA228",
+    "username": "bottele2",
     "password": "12zxc12zxc",
     "type": "offline"
   },
@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
