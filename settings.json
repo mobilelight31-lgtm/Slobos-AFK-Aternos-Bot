@@ -1,8 +1,8 @@
 {
   "name": "GOD JESUS",
   "bot-account": {
-    "username": "zellingovic",
-    "password": "12QaS12QaS",
+    "username": "bottele2",
+    "password": "12zxc12zxc",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "12QaS12QaS"
+      "password": "12zxc12zxc"
     },
     "anti-afk": {
       "enabled": true,
